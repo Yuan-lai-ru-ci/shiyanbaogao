@@ -1,0 +1,8 @@
+x,y = input('请输入两个整数，用,隔开：').strip().split()
+x = int(x)
+y = int(y)
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x//y)

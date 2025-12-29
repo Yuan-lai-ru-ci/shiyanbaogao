@@ -1,0 +1,7 @@
+aList = list(map(int, input().split()))
+n = ''.join(map(str, aList[0:3]))
+m = ''.join(map(str, aList[3:6]))
+d = ''.join(map(str, aList[6:9]))
+print(n)
+print(m)
+print(d)
